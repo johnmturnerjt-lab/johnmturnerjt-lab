@@ -13,8 +13,7 @@ My engineering approach combines decades of low-level, real-time systems experie
 ---
 
 ### 🛠️ Featured Project: SignalExplorer Showcase
-👉 **[Explore the Repository](https://github.com/johnmturnerjt-lab/SignalExplorer-Showcase<img width="3000" height="1688" alt="showcase-16-9" src="https://github.com/user-attachments/assets/40cc4210-86b3-43e6-b77f-2209a9cec78b" />
-)**
+👉 **[Explore the Repository](https://github.com/johnmturnerjt-lab/SignalExplorer-Showcase)**
 
 A commercial-grade, cross-platform **4-channel Signal Generator and Oscilloscope suite** built from the ground up to demonstrate modern .NET and Avalonia UI performance engineering:
 
